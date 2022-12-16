@@ -1,17 +1,6 @@
 # Enmap - Enhanced Maps
 
-<div align="center">
-  <p>
-    <a href="https://discord.gg/N7ZKH3P"><img src="https://discordapp.com/api/guilds/298508738623438848/embed.png" alt="Discord server" /></a>
-    <a href="https://www.npmjs.com/package/enmap"><img src="https://img.shields.io/npm/v/enmap.svg?maxAge=3600" alt="NPM version" /></a>
-    <a href="https://www.npmjs.com/package/enmap"><img src="https://img.shields.io/npm/dt/enmap.svg?maxAge=3600" alt="NPM downloads" /></a>
-    <a href="https://www.patreon.com/eviecodes"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
-  </p>
-</div>
-
-<div align="center">
-  <p><img src="https://evie.codes/enmap-logo.svg" alt="Enmap Logo" />
-</div>
+**This is a slighty enhanced version of the original enmap library we use for [Jambo](https://github.com/Cowoding-Jams/Jambo) until the enmap team fixes the problems and bugs with and in their code.**
 
 Enhanced Maps are a data structure that can be used to store data in memory that can also be saved in a database behind the scenes.
 These operations are fast, safe, and painless.
