@@ -1,6 +1,6 @@
 # Enmap - Enhanced Maps
 
-**This is a slighty enhanced version of the original enmap library we use for [Jambo](https://github.com/Cowoding-Jams/Jambo) until the enmap team fixes the problems and bugs with and in their code.**
+### _**This is a slighty enhanced version of the original enmap library we use for [Jambo](https://github.com/Cowoding-Jams/Jambo) until the enmap team fixes the problems and bugs with and in their code.**_
 
 Enhanced Maps are a data structure that can be used to store data in memory that can also be saved in a database behind the scenes.
 These operations are fast, safe, and painless.
