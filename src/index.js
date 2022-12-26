@@ -1349,7 +1349,7 @@ class Enmap extends Map {
       'EnmapArgumentError',
     );
 
-    if (isNil(value)) throw new Err(
+    if (typeof propOrFn === 'string' && isNil(value)) throw new Err(
       'The value must be specified and cannot be nil.',
       'EnmapArgumentError',
     );
