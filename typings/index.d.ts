@@ -323,7 +323,7 @@ declare module 'enmap' {
      */
     public push(
       key: string,
-      val: any,
+      val: V[0],
       path?: string,
       allowDupes?: boolean,
     ): this;
